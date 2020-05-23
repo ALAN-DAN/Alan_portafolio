@@ -1,4 +1,5 @@
- # Alan_portafolio ![](https://github.com/ALAN-DAN/python-projects/blob/master/data_analysis/stock_forecast/Images/foto.jpg)
+ # Alan_portafolio 
+ ![](https://github.com/ALAN-DAN/python-projects/blob/master/data_analysis/stock_forecast/Images/foto.jpg)
  Data science and python projects and exercises.
 
 ## [Exercise 1 : visualizations.](https://github.com/ALAN-DAN/python-projects/blob/master/data_analysis/visualizacion_datos_subplots_3D.ipynb) 
