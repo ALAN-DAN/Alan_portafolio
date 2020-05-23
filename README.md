@@ -1,7 +1,7 @@
 # Alan_portafolio
  Data science and python projects and exercises.
 
-## Exercise 1 : visualizations. 
+## [Exercise 1 : visualizations.](https://github.com/ALAN-DAN/python-projects/blob/master/data_analysis/visualizacion_datos_subplots_3D.ipynb) 
 The analyzed dataset contains information about heart diseases and symptoms. 
 This file contains several plot and subplots to show the relation between symptoms and healthy or sick patients.
 
@@ -13,7 +13,7 @@ This file contains several plot and subplots to show the relation between sympto
 * 3D Subplot function, 3D subplots of healthy and sickness patients, considering all the variables (symptoms).
 * Dynamic 3D plot.
 
-## Project 1 : Financial products comparative and forecasting.
+## [Project 1 : Financial products comparative and forecasting.](https://github.com/ALAN-DAN/python-projects/blob/master/data_analysis/stock_forecast/proyecto_base_2.ipynb)
 This project contains a comparative between stock market indexes (IPC and S&P500) and some fintech project investments, 
 investments funds and FAANG stock´s. 
 Also three diferent predictive models and the corresponding plots.
@@ -31,7 +31,7 @@ Also three diferent predictive models and the corresponding plots.
 * Creation and training of SVR model.
 * Forecast plot(SVR).
 
-### Project 1 (continuation) : RNN-LSTM model (tensorflow).
+### [Project 1 (continuation) : RNN-LSTM model (tensorflow).](https://github.com/ALAN-DAN/python-projects/blob/master/data_analysis/stock_forecast/Modelo%20LSTM.ipynb)
 The last predictive model LSTM.
 
 * Historical S&P500 price plot.
