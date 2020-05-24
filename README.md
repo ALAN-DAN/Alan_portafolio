@@ -1,4 +1,6 @@
  # Alan_portafolio 
+ 
+ 
  ![](/Images/foto.jpg)
  Data science and python projects and exercises.
 
